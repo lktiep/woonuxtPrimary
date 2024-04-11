@@ -18,4 +18,7 @@ export default defineNuxtConfig({
       failOnError: false,
     },
   },
+  image: {
+    provider: 'netlify',
+  },
 });
