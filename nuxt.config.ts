@@ -20,5 +20,6 @@ export default defineNuxtConfig({
   },
   image: {
     provider: 'netlify',
+    domains: ['thebrothersnature.vn']
   },
 });
